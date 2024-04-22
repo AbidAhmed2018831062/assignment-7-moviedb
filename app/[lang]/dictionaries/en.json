@@ -1,0 +1,13 @@
+{
+    "sideBar":{
+        "trending":"Trending",
+        "newReleases":"New Releases",
+        "coming_soon":"Coming Soon",
+        "favourites":"Favourites",
+        "watchLater":"Watch Later"
+    },
+    "footer":{
+        "copy":"Copyright",
+        "text":"All rights reserved by Learn with Sumit"
+    }
+}
